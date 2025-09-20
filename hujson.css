@@ -1,0 +1,40 @@
+body{
+    font-family: sans-serif;
+    background-color: beige;
+}
+header{
+    width: 100%;
+    height: 20%;
+ 
+    font-style: italic;
+    color: crimson;
+    text-align: center;
+
+}
+section{
+    width: 60%;
+    height: 60%;
+    
+    color: crimson;
+    text-align: left;
+    float: left;
+}
+aside{
+    width: 40%;
+    height: 60%;
+
+    color: black;
+    text-align: left;
+    float: left;
+    margin: 10%;
+}
+footer{
+    width: 100%;
+    height: 20%;
+
+    color: crimson;
+    font-style: italic;
+    text-align: center;
+    clear: both;
+    
+}
